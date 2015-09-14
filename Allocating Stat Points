@@ -1,0 +1,1 @@
+Experiencing bugs while trying to allocate stat points. It simply stays at: 'Allocated Points [0] +1-6' depends on how much you're trying to allocate. After leaving the menu, it goes back to how it was.
